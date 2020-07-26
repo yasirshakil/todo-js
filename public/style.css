@@ -1,0 +1,27 @@
+
+.Btn{
+    background-color: red;
+    color: black;
+    margin: 10px 0px 10px 10px;
+}
+
+#list{
+    font-size: large;
+}
+
+h1{
+    color: white;
+    text-shadow: 5px 5px 5px purple;
+    font-size: 50px !important;
+}
+
+.container{
+    background-color: brown;
+    width:80%;
+    text-align: center;
+    margin: 0px auto;
+    box-shadow: 1px 2px 5px grey;
+}
+ li{
+     color:darkblue;
+ }
